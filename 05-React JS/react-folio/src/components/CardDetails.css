@@ -1,0 +1,33 @@
+.details-section {
+  margin-top: 0.5rem;
+}
+
+hr {
+  margin: 1rem auto;
+}
+
+span {
+  margin-right: 0.8rem;
+}
+
+.amount {
+  color: #6674cc;
+  font-weight: bold;
+  font-size: 1.3rem;
+}
+
+.org-amount {
+  color: #777c85;
+  font-weight: bold;
+  font-size: 1.3rem;
+  text-decoration: line-through;
+}
+
+.discount-tag {
+  background-color: #1dd1a1;
+  padding: 0.3rem 0.5rem;
+  font-size: 1rem;
+  font-weight: bold;
+  color: #fff;
+  border-radius: 8px;
+}
